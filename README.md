@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**javierlalupu/javierlalupu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola, soy Javier!
 
-Here are some ideas to get you started:
+Estudiante de Ingeniería de Sistemas | Desarrollador Full Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+javierlalupuneyra@outlook.com | linkedin.com/in/javierlalupuneyra | github.com/javierlalupu
+
+---
+
+## Perfil
+Estudiante de Ingeniería de Sistemas con enfoque en desarrollo full stack. Experiencia en el diseño e implementación de aplicaciones end-to-end: modelado de datos, lógica de negocio, seguridad y despliegue.
+
+## Habilidades técnicas
+- **Backend:** Java, Spring Boot, Spring Security, REST API, JWT
+- **Frontend:** Angular, React, TypeScript, HTML5, CSS3, Tailwind CSS
+- **Base de datos:** PostgreSQL, MongoDB (básico), SQL Server (básico)
+- **Automatización:** n8n
+- **Herramientas:** Git, Docker, Postman, IntelliJ IDEA
+
+##Git Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=javierlalupu&theme=dark)](https://git.io/streak-stats)
+
+
+## Educación
+Ingeniería de Sistemas — Universidad Tecnológica del Perú (UTP), en curso
